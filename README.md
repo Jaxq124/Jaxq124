@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://imgs.search.brave.com/bxk2WHxw56_rJxb8HbQQdVEVSedu15efdXSdYl5guj4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNblZqTW1nMWVt/MXRjM2RxY1hJemVX/cGtiRFUwTkRZNGVq/YzFiSGhuWVhjNVpU/WTVObk0zYXlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif" />
+<img src="https://imgs.search.brave.com/bxk2WHxw56_rJxb8HbQQdVEVSedu15efdXSdYl5guj4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNblZqTW1nMWVt/MXRjM2RxY1hJemVX/cGtiRFUwTkRZNGVq/YzFiSGhuWVhjNVpU/WTVObk0zYXlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif" width="860" />
 <h1 align="center">Hi 👋, I'm BP Pradyumna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
